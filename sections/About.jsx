@@ -18,6 +18,7 @@ const About = () => (
     >
       <TypingText title="| About Metaverses" textStyles="text-center" />
     </motion.div>
+    About Section
   </section>
 );
 
