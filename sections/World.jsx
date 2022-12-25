@@ -72,11 +72,11 @@ const World = () => (
                 + 264 has joined
               </p>
             </div>
-            <h2
+            <h4
               className={`mt-[8px] mb-[24px] font-bold md:text-[18px] text-[16px] md:leading-[22px] leading-[20px] text-white mx-6`}
             >
               The Upside Down
-            </h2>
+            </h4>
           </div>
         </div>
         <div className="absolute max-sm:hidden top-[10%] right-[20%] w-[200px] h-[150px] p-[6px] rounded-[24px] bg-[#5d6680]">
@@ -108,11 +108,11 @@ const World = () => (
                 + 264 has joined
               </p>
             </div>
-            <h2
+            <h4
               className={`mt-[8px] mb-[24px] font-bold md:text-[18px] text-[16px] md:leading-[22px] leading-[20px] text-white mx-6`}
             >
               Hawkins Labs
-            </h2>
+            </h4>
           </div>
         </div>
       </motion.div>
