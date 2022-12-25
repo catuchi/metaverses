@@ -4,7 +4,7 @@ Taking a Figma design and transforming it into a brilliant website using Next.js
 
 ## Demo
 
-This app was deployed using Vercel. Click here for live demo -> [Metaverses](https://bank-app-nine.vercel.app/)
+This app was deployed using Vercel. Click here for live demo -> [Metaverses](https://metaverses-seven.vercel.app/)
 
 ## Run Locally
 
