@@ -16,10 +16,10 @@ module.exports = {
       transitionTimingFunction: {
         "out-flex": "cubic-bezier(0.05, 0.6, 0.4, 0.9)",
       },
-      screens: {
-        xs: "375px",
-        ss: "425px",
-      },
+      // screens: {
+      //   xs: "375px",
+      //   ss: "425px",
+      // },
     },
   },
   plugins: [],

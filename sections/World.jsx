@@ -37,7 +37,7 @@ const World = () => (
         <div className="absolute lg:bottom-[19%] bottom-[35%] lg:right-[11%] right-[7%] w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]">
           <img src="people-01.png" alt="people" className="w-full h-full" />
         </div>
-        <div className="absolute lg:top-[8%] top-[22%] max-xs:hidden lg:left-[13%] left-[10%] w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]">
+        <div className="absolute lg:top-[8%] top-[22%] max-sm:top-[30%] lg:left-[13%] left-[10%] w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]">
           <img src="people-02.png" alt="people" className="w-full h-full" />
         </div>
         <div className="absolute top-1/2 left-[45%] w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]">
